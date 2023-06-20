@@ -1,30 +1,19 @@
-Từ trang web [này](https://pynative.com/python-basic-exercise-for-beginners/). Trong mỗi chủ đề, tự chọn 4 bài tập để làm và nộp.
-
+Từ trang web [này](https://pynative.com/python-basic-exercise-for-beginners/) 
+Trong mỗi chủ đề, tự chọn 4 bài tập để làm và nộp.
 Các chủ đề gồm:
 
-Basic Exercise for Beginners
-
-Input and Output Exercise
-
-Loop Exercise
-
-Functions Exercise
-
-String Exercise
-
-Data Structure Exercise
-
-List Exercise
-
-Dictionary Exercise
-
-Set Exercise
-
-Tuple Exercise
-
-Date and Time Exercise
-
-OOP Exercise 
+- Basic Exercise for Beginners
+- Input and Output Exercise
+- Loop Exercise
+- Functions Exercise
+- String Exercise
+- Data Structure Exercise
+- List Exercise
+- Dictionary Exercise
+- Set Exercise
+- Tuple Exercise
+- Date and Time Exercise
+- OOP Exercise 
 
 Tổng cộng 48 bài. Mỗi bài nộp trong một file .py riêng.
 
