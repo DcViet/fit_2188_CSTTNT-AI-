@@ -135,3 +135,60 @@ def merge_list(list1, list2):
 list1 = [10, 20, 25, 30, 35]
 list2 = [40, 45, 60, 75, 90]
 print("result list:", merge_list(list1, list2))
+
+# Exercise 11: Write a Program to extract each digit from an integer in the reverse order.
+number = 7536
+print("Given number", number)
+while number > 0:
+    # get the last digit
+    digit = number % 10
+    # remove the last digit and repeat the loop
+    number = number // 10
+    print(digit, end=" ")
+
+# Exercise 12: Calculate income tax for the given income by adhering to the below rules
+income = 45000
+tax_payable = 0
+print("Given income", income)
+
+if income <= 10000:
+    tax_payable = 0
+elif income <= 20000:
+    # no tax on first 10,000
+    x = income - 10000
+    # 10% tax
+    tax_payable = x * 10 / 100
+else:
+    # first 10,000
+    tax_payable = 0
+
+    # next 10,000 10% tax
+    tax_payable = 10000 * 10 / 100
+
+    # remaining 20%tax
+    tax_payable += (income - 20000) * 20 / 100
+
+print("Total tax to pay is", tax_payable)
+
+# Exercise 13: Print multiplication table form 1 to 10
+for i in range(1, 11):
+    for j in range(1, 11):
+        print(i * j, end=" ")
+    print("\t\t")
+
+# Exercise 14: Print downward Half-Pyramid Pattern with Star (asterisk)
+for i in range(6, 0, -1):
+    for j in range(0, i - 1):
+        print("*", end=' ')
+    print(" ")
+
+# Exercise 15: Write a function called exponent(base, exp) that returns an int value of base raises to the power of exp.
+def exponent(base, exp):
+    num = exp
+    result = 1
+    while num > 0:
+        result = result * base
+        num = num - 1
+    print(base, "raises to the power of", exp, "is: ", result)
+
+exponent(5, 4)
