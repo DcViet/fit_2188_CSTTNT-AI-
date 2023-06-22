@@ -15,4 +15,6 @@ fit_Cơ sở trí tuệ nhân tạo_DTTX
 
 ![game](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
 
-![game](https://github.blog/wp-content/uploads/2023/01/100MDevs_Blog_1200x627_v3.gif)
+>lab 03
+
+![tictactoe](https://pettingzoo.farama.org/_images/classic_tictactoe.gif) 
