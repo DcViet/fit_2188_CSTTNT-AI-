@@ -1,3 +1,5 @@
+#Lớp Cơ sở trí tuệ nhân tạo - CSC14003 - HK2/22-23 
+
 Từ trang web [này](https://pynative.com/python-basic-exercise-for-beginners/) 
 Trong mỗi chủ đề, tự chọn 4 bài tập để làm và nộp.
 Các chủ đề gồm:
