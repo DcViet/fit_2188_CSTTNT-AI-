@@ -13,13 +13,13 @@ Lớp Cơ sở trí tuệ nhân tạo - CSC14003 - HK2/22-23 - Thầy Phạm Tr�
 - Ôn tập
 - Giải đề
 
->Lab 00 : Learn Python
+>Lab 0:
 
->Lab 01
+>Lab 1:
 
->Lab 02
+>Lab 2:
 
->Lab 03
+>Lab 3: Tictactoe
 
 ![tictactoe](https://pettingzoo.farama.org/_images/classic_tictactoe.gif) 
 
