@@ -1,9 +1,9 @@
 <div>
-<img height="200"
+<img height="150"
  alt="wall-e" 
  src="https://cdn2.iconfinder.com/data/icons/walle/256/my_computer.png" /> 
  <a href="">
- <img height="200" 
+ <img height="150" 
   src="https://www.pngitem.com/pimgs/m/167-1676821_wall-e-and-eva-quotes-png-download-robot.png" 
   alt="eve" /></a>
  </div>
@@ -19,8 +19,5 @@ fit_Cơ sở trí tuệ nhân tạo_DTTX
 
 ![tictactoe](https://pettingzoo.farama.org/_images/classic_tictactoe.gif) 
 
-![plane](https://media.tenor.com/qsdblRVNZysAAAAM/flying-airplane.gif)
+![plane](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczczbGRpdTY1emthNTZtcDVjYTR0eXRsbWxqbHBzOG90cjg3cDk3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AplP4KOQssbNRFT8EG/giphy.gif)
 
-<iframe src="https://giphy.com/embed/AplP4KOQssbNRFT8EG" width="480" height="251" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/plane-flight-airline-AplP4KOQssbNRFT8EG">via GIPHY</a></p>
-
-![a](https://giphy.com/gifs/plane-flight-airline-AplP4KOQssbNRFT8EG)
