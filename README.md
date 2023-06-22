@@ -21,3 +21,4 @@ fit_Cơ sở trí tuệ nhân tạo_DTTX
 
 ![plane](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczczbGRpdTY1emthNTZtcDVjYTR0eXRsbWxqbHBzOG90cjg3cDk3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AplP4KOQssbNRFT8EG/giphy.gif)
 
+![plane1](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG12Ynp1cmFsdDBreDFraHNmZXg4cjF5dGtmZGQ4d283aHM2cGZzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/U29iRRUrtx1wjD4GR4/giphy.gif)
