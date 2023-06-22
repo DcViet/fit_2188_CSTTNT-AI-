@@ -18,3 +18,7 @@ fit_Cơ sở trí tuệ nhân tạo_DTTX
 >lab 03
 
 ![tictactoe](https://pettingzoo.farama.org/_images/classic_tictactoe.gif) 
+
+![plane](https://media.tenor.com/qsdblRVNZysAAAAM/flying-airplane.gif)
+
+<iframe src="https://giphy.com/embed/AplP4KOQssbNRFT8EG" width="480" height="251" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/plane-flight-airline-AplP4KOQssbNRFT8EG">via GIPHY</a></p>
