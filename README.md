@@ -9,11 +9,17 @@
  </div>
  
 # fit_2188_CSTTNT-AI
-Cơ sở trí tuệ nhân tạo
+Lớp Cơ sở trí tuệ nhân tạo - CSC14003 - HK2/22-23 - Thầy Phạm Trọng Nghĩa
 - Ôn tập
 - Giải đề
 
->lab 03
+>Lab 00 : Learn Python
+
+>Lab 01
+
+>Lab 02
+
+>Lab 03
 
 ![tictactoe](https://pettingzoo.farama.org/_images/classic_tictactoe.gif) 
 
