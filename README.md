@@ -8,17 +8,16 @@
   alt="eve" /></a>
  </div>
  
-# fit_2188_CSTTNT-AI-
-fit_Cơ sở trí tuệ nhân tạo_DTTX
+# fit_2188_CSTTNT-AI
+Cơ sở trí tuệ nhân tạo
 - Ôn tập
 - Giải đề
-
-![game](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
 
 >lab 03
 
 ![tictactoe](https://pettingzoo.farama.org/_images/classic_tictactoe.gif) 
 
-![plane](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczczbGRpdTY1emthNTZtcDVjYTR0eXRsbWxqbHBzOG90cjg3cDk3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AplP4KOQssbNRFT8EG/giphy.gif)
-
+<div>
 <img height="100" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG12Ynp1cmFsdDBreDFraHNmZXg4cjF5dGtmZGQ4d283aHM2cGZzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/U29iRRUrtx1wjD4GR4/giphy.gif" />
+<img height ="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczczbGRpdTY1emthNTZtcDVjYTR0eXRsbWxqbHBzOG90cjg3cDk3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AplP4KOQssbNRFT8EG/giphy.gif" />
+</div>
